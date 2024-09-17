@@ -1,3 +1,5 @@
+This repo is part of the philu set of repos, that create the philanthropyu.org website
+
 # frontend-component-cookie-policy-banner
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/edx/frontend-component-cookie-policy-banner.svg)](https://greenkeeper.io/)
